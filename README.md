@@ -1,2 +1,2 @@
 # PresupuestoAppAngular
-Aplicación en Angular
+Aplicación en Angular: La aplicación está en la rama master
